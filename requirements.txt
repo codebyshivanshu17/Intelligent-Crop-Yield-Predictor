@@ -1,3 +1,4 @@
 plotly
 python-dotenv
 requests
+joblib
