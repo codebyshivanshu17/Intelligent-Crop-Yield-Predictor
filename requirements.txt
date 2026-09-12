@@ -1,4 +1,8 @@
-plotly
-python-dotenv
-requests
+streamlit
+pandas
+numpy
+scikit-learn
 joblib
+plotly
+requests
+python-dotenv
